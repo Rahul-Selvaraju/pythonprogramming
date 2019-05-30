@@ -5,6 +5,6 @@ if a > 1:
             print(a, "No")
             break
     else:
-        print(a, "Yes") 
+        print(a, "yes") 
 else:
-    print(a, "No") 
+    print(a, "no") 
